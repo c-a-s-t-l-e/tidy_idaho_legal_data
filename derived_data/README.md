@@ -1,2 +1,5 @@
-# blank_project_repository
-A blank project repository for folder structure and naming guidance
+# Derived Data
+
+The following datatypes for Idaho's legal statutes are available:
+
+- CSV
