@@ -1,6 +1,6 @@
 # The Tidy Idaho Legal Dataset Project
 
-This repo is intended to be a public place to store the state of Idaho's legal data in formats conducive for building informative reports and useful tools.
+This repo is intended to be a public place to store the state of Idaho's legal data in formats conducive for writing informative reports and building useful tools.
 
 ## High-level folders
 
