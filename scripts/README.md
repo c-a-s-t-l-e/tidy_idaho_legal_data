@@ -1,2 +1,3 @@
-# blank_project_repository
-A blank project repository for folder structure and naming guidance
+# Scripts
+
+This folder holds scripts that are used to process all the legal data.
