@@ -5,3 +5,5 @@
 blank_project_repository.Rproj
 .DS_Store
 data
+docs/.Gemfile
+docs/vendor
