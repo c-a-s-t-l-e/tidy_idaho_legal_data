@@ -1,2 +1,3 @@
-# blank_project_repository
-A blank project repository for folder structure and naming guidance
+# Documents
+
+This folder contains documents that are relevant for reference, ideation, etc.
