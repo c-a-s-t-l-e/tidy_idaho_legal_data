@@ -28,9 +28,12 @@ This glossary explains the most common abbreviations used in the Idaho Code, Ses
 - **1925** → Year enacted.
 - **ch. 86** → Chapter 86 of 1925 session laws.
 - **sec. 1** → Section 1 of that chapter.
-- **p. 120** → Page in the session law volume.
+- **p. 120** → Page 128 in the session law volume.
 - **I.C.A.** → Idaho Code Annotated reference.
-- **am. 1951...** → Amended in 1951, Chapter 87, Section 1, Page 157.
+- **am. 1951** → Amended in 1951,
+- **ch. 87** → Chapter 87
+- **sec. 1** → Section 1 of that chapter
+- **p. 157** → Page 157 in the session law volume
 
 ---
 
